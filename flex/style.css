@@ -1,0 +1,85 @@
+.article_a{
+    display: flex;
+    position: fixed;
+    border-radius:15px;
+    width: 500px;
+    height: 350px;
+  background-color: rgb(153, 153, 153);
+}
+.h2_a,
+.h2_b{
+    height: 210px;
+   width: 210px;
+    font-size: 14px;
+    border-radius: 7px;;
+    font-weight: lighter;
+    margin: 15px;
+    padding: 40px;
+    background-color: rgb(186, 186, 186);
+}
+.p_ab{
+    font-size: 10px;
+   position:relative;
+   font-size: 9px;
+   top: 9%;
+   left:95px; 
+    color:rgb(0, 139, 35);
+    }
+    .strong_a{
+       position:relative;
+       top:4%;
+       left: 80px;
+    }
+    .p_a{
+        font-size: 10px;
+        position:relative;
+        font-size: 9px;
+        top: 7%;
+        left:50px; 
+    }
+    .p_b{
+        font-size: 10px;
+        position:relative;
+        font-size: 9px;
+        top: 31%;
+        left:50px; 
+    }
+    .p_ba{
+        font-size: 10px;
+        position:relative;
+        font-size: 9px;
+        top: 32%;
+        left:80px; 
+        color:rgb(98, 3, 105)
+    }
+    .strong_b{
+        position:relative;
+       top: 32%;
+       left: 105px;
+    }
+    .iconka_a{
+        content: url(./assets/icons/format-quote-close.svg); 
+display: inline-block;
+position: relative;
+top: 30px;
+left: 60px;
+background-color:green;
+width: 50px;
+height: 27px;
+text-align: center;
+padding: 3;
+border-radius: 50%;
+    }
+    .iconka_b{
+        content: url(./assets/icons/format-quote-close.svg); 
+        display: inline-block;
+        position: relative;
+        top: 30px;
+        left: 60px;
+        background-color:rgb(159, 0, 146);
+        width: 50px;
+        height: 27px;
+        text-align: center;
+        padding: 3;
+        border-radius: 50%;
+    }
